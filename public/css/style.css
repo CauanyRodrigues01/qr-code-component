@@ -71,11 +71,11 @@ body {
 }
 
 @media (max-width: 375px) {
+    .card {
+        /* space measurement */
+        width: 70%;
+    }   
     .title {
-        font-size: .7rem;
-    } 
-    
-    .text {
-        font-size: .5rem;
+        font-size: 1.3rem;
     }
 }
