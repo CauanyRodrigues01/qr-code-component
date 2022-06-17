@@ -65,6 +65,17 @@ body {
     text-align: center; 
     display: none; 
 }
+
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+}
+
+@media (max-width: 375px) {
+    .title {
+        font-size: .7rem;
+    } 
+    
+    .text {
+        font-size: .5rem;
+    }
 }
