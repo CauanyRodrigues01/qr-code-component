@@ -26,6 +26,7 @@ body {
     /* space measurement */
     width: 40%;
     max-width: 305px;
+    min-width: 245px;
     padding: 1rem;
 
     /* additional */
